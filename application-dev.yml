@@ -1,7 +1,8 @@
+
 spring:
   application:
-      name: CONFIG-DEV
- eureka:
+      name: Config-Dev
+eureka:
   client:
     fetch-registry: true
     register-with-eureka: true
